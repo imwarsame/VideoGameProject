@@ -1,2 +1,2 @@
 # VideoGameAPI
-Gradle project covering REST-assured fundamentals using a RESTful API hosted on Swagger.
+[Gradle](https://gradle.org/) project covering [REST-assured](http://rest-assured.io/) fundamentals utilising [Swagger](https://swagger.io/) to consume web resources.
